@@ -1,0 +1,22 @@
+
+    .hed{
+        font-family:'Roboto Slab', serif;
+    }
+    #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+.hed-back{
+  background: -webkit-linear-gradient(50deg,#2096ff,#05ffa3)!important;
+    background: -o-linear-gradient(50deg,#2096ff,#05ffa3)!important;
+    background: linear-gradient(40deg,#2096ff,#05ffa3)!important;
+}
+.hedr{
+        font-family: 'Bitter', serif;
+    }
+    .select{
+    padding: .5rem;
+    border-radius: 5px;
+    border-color: lightgray;
+    width:100%;
+   }
